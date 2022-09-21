@@ -43,6 +43,10 @@ Relaunching Discord now...
 $
 ```
 
+Recommended (for PS|Git):
+```
+python3 beautifuldiscord --css C:\mystuff\myown.css
+```
 Pass the `--revert` flag to restore Discord to its initial state. You can also do this manually if your Discord
 install gets screwed up, by first locating where Discord stores its resources:
 
