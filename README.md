@@ -77,7 +77,7 @@ Usage of a virtual environment is recommended, to not pollute your global packag
 
 ## Requirements
 
-- Python 3.x (no interest in compatibility with 2.x, untested on Python 3.x versions below 3.4)
+- [Python 3.x](https://www.python.org/downloads/) (no interest in compatibility with 2.x, untested on Python 3.x versions below 3.4)
 - `psutil` library: https://github.com/giampaolo/psutil
 
 Normally, `pip` should install any required dependencies.
