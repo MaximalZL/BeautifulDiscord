@@ -82,6 +82,14 @@ Usage of a virtual environment is recommended, to not pollute your global packag
 
 Normally, `pip` should install any required dependencies.
 
+## CSS styles for Discord
+
+- [VSTHEMES.ORG - темы для дискорда](https://vsthemes.org/skins/discord/)
+- [Популярная тема - Cyberpunk (Night City)](https://vsthemes.org/skins/discord/52843-cyberpunk-night-city-.html)
+- [Создать самому](https://vsthemes.org/generator)
+
+![demo png](https://vsthemes.org/uploads/posts/2022-08/1660379408_1660379413.png)
+
 ## More GIFs
 
 ![demo gif](http://i.imgur.com/w0bQOJ6.gif)
